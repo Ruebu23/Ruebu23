@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ruebu23
-- 👀 I’m interested in python
-- 🌱 I’m currently learning c and python
+- 👀 I’m interested in python,Html,css,Javascript and ethical Hacking #be_anonymous
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: Email - ruebusalazar@gmail.com
 
 <!---
 Ruebu23/Ruebu23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
