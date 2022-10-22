@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ruebu23
-- 👀 I’m interested in python,Html,css,Javascript and ethical Hacking #be_anonymous
+- 👀 I’m interested in python,Html,css,Javascript and ethical Hacking
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email - ruebusalazar@gmail.com
 
